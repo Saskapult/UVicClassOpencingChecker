@@ -10,7 +10,6 @@ public class checker {
 
     public static void main(String[] args) {
         //SHOWCLASSPATH();
-        //sendEmail("thekieransmith@gmail.com");
 
         String url;
         try{
